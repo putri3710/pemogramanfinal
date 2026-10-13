@@ -1,0 +1,25 @@
+Kesalahan yang Sering Terjadi dan Perbaikannya
+
+Urutan peristiwa tidak runtut.
+Kurang tepat: "Kami pulang pukul 12.00. Sebelumnya kami tiba pukul 08.00. Lalu kami berfoto."
+Perbaikan: "Kami tiba pukul 08.00. Setelah itu, kami berfoto bersama. Pukul 12.00, kami pulang."
+
+Orientasi tidak lengkap.
+Kurang tepat: "Kami pergi ke museum."
+Perbaikan: "Pada hari Sabtu, 14 September 2024, kelas IX-A mengadakan karyawisata ke Museum Negeri Sumatera Utara."
+
+Sudut pandang tidak konsisten.
+Kurang tepat: "Aku berangkat pukul 07.00, lalu dia merasa senang."
+Perbaikan: "Aku berangkat pukul 07.00, lalu aku merasa senang."
+
+Konjungsi monoton.
+Kurang tepat: "Lalu kami berangkat. Lalu kami tiba. Lalu kami makan."
+Perbaikan: "Kami berangkat pukul 07.00. Setelah tiba, kami menata perlengkapan. Selanjutnya, kami makan bersama."
+
+Opini berlebihan dalam rekon faktual.
+Kurang tepat: "Upacara itu sangat membosankan."
+Perbaikan: "Upacara berlangsung selama 75 menit."
+
+Kesalahan ejaan.
+Kurang tepat: "pada hari sabtu, di bulan september."
+Perbaikan: "pada hari Sabtu, di bulan September."
