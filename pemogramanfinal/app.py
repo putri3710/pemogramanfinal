@@ -19,10 +19,15 @@ st.set_page_config(
 
 
 # =========================================================
-# KONFIGURASI DATABASE BARU
+# KONFIGURASI DATABASE (PATH ABSOLUT - PERBAIKAN)
 # =========================================================
 
-FOLDER_DATABASE = "database_pengembangan"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+FOLDER_DATABASE = os.path.join(
+    BASE_DIR,
+    "database_pengembangan"
+)
 
 FILE_ABSENSI = os.path.join(
     FOLDER_DATABASE,
@@ -41,12 +46,17 @@ FILE_NILAI = os.path.join(
 
 
 # =========================================================
-# MEMBUAT FOLDER DATABASE
+# MEMBUAT FOLDER DATABASE (dengan peringatan)
 # =========================================================
 
 if not os.path.exists(FOLDER_DATABASE):
-    os.makedirs(FOLDER_DATABASE)
 
+    st.warning(
+        "Folder database tidak ditemukan di: "
+        + FOLDER_DATABASE
+    )
+
+    os.makedirs(FOLDER_DATABASE)
 
 # =========================================================
 # FUNGSI MEMBACA FILE TXT
